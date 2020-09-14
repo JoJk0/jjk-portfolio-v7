@@ -1,1 +1,2 @@
-# jjk-portfolio-v7
+# JJK-Portfolio
+The main repository for JoJko's portfolio
