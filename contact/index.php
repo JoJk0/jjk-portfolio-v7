@@ -59,10 +59,10 @@
             
             <div class="white_bg">
                 You can contact with me in many ways
-                <div class="contact"><img class="contact_img" src="../img/skype.png" alt="skype" /><p>kuba_2008</p></div>
-                <div class="contact"><img class="contact_img" src="../img/mail.png" alt="skype" /><p>jacob.janisz@outlook.com</p></div>
-                <div class="contact"><img class="contact_img" src="../img/uk.png" alt="skype" /><p>079464 18503</p></div>
-                <div class="contact"><img class="contact_img" src="../img/pl.png" alt="skype" /><p>731 245 595</p></div>
+                <div class="contact"><img class="contact_img" src="../img/skype.png" alt="skype" /><p>lorem_ipsum</p></div>
+                <div class="contact"><img class="contact_img" src="../img/mail.png" alt="skype" /><p>jacob@jojko.tech</p></div>
+                <div class="contact"><img class="contact_img" src="../img/uk.png" alt="skype" /><p>01234 567890</p></div>
+                <div class="contact"><img class="contact_img" src="../img/pl.png" alt="skype" /><p>123 456 789</p></div>
                 <div class="cf"></div>
             </div>
             
